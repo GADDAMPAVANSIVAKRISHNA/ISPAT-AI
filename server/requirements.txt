@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+python-multipart
+joblib
+scikit-learn
+xgboost
+numpy
+pandas
+apscheduler
+firebase-admin
+python-jose[cryptography]
+httpx
